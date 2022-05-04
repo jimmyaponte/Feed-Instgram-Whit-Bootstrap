@@ -1,0 +1,68 @@
+.cabeza {
+    padding: 0.5rem;
+    background: rgb(255, 255, 255);
+    border-bottom:1px rgba(161, 161, 161, 0.509) solid ;
+}
+
+.post {
+    height: 400px;
+    width: 100%;
+}
+
+#cuerpo {
+    background: rgb(215, 215, 215);
+}
+
+.box {
+    width: 600px;
+    margin: auto; 
+    background-color: white;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+}
+
+.post2 {
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-top: 3px;
+}
+
+.hpost {
+    font-family: roboto slab;
+    margin-top: 7px;
+}
+
+.fpost {
+    margin-top: 10px;
+    color: rgb(0, 0, 0);
+    margin-left: 60px;
+}
+
+.imgpost {
+    width: 100%;
+    height: 400px;
+    padding-bottom: 5px;
+}
+
+.textpost {
+    padding-bottom: 0%;
+    font-size: 13px;
+    margin-left: 10px;
+    margin-bottom: 0%;
+}
+.textpostc {
+    padding-bottom: 0%;
+    font-size: 12px;
+    margin-left: 10px;
+    margin-bottom: 0%;
+    color: rgba(43, 42, 42, 0.669)
+}
+.textposth {
+    padding-bottom: 0%;
+    font-size: 10px;
+    margin-left: 10px;
+    margin-bottom: 8px;
+    color: rgba(43, 42, 42, 0.669)
+}
